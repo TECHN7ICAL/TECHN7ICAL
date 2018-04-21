@@ -35,5 +35,3 @@ if ($('#powered')['length'] !== 0) {
 if (Link['indexOf']('post-preview') == -1 && Link['indexOf']('www.blogger') == -1 && Link['indexOf']('b/preview') == -1 && Link['indexOf']('template-editor') == -1 && Loct['indexOf']('wdbloog.blogspot.com') == -1 && Loct['indexOf']('wdbloog.blogspot.com') == -1 && Loct['indexOf']('wdbloog.blogspot.com') == -1) {
     redirect()
 }
-if (Link['indexOf']('post-preview') == -1 && Link['indexOf']('www.blogger') == -1 && Link['indexOf']('b/preview') == -1 && Link['indexOf']('template-editor') == -1 && Loct['indexOf']('material-je-v2.blogspot.com') == -1 && Loct['indexOf']('material-je-v2.blogspot.com') == -1 && Loct['indexOf']('material-je-v2.blogspot.com') == -1) {
-    redirect()
